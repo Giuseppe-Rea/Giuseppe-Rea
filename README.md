@@ -8,7 +8,7 @@ So this profile is a record of that shift. I'm working through the Grasshopper e
 
 Where I'd like to end up is geometry that carries structural and environmental logic, the work computational teams at engineering-led practices do, approaching it as a geometry and 3D specialist rather than as an engineer.
 
-**Comfortable with:** Rhino · Grasshopper · GHPython · Revit · Enscape · Adobe suite . D5 Render .
+**Comfortable with:** Rhino · Grasshopper · GHPython · Revit · Enscape · Adobe suite . D5 Render 
 
 **Currently working into:** Kangaroo2 · Karamba3D · Ladybug Tools · Galapagos · Wallacei · Speckle · Rhino.Inside.Revit
 
